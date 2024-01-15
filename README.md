@@ -7,7 +7,7 @@ This code is based on this model: **[TPLinker: Single-stage Joint Extraction of 
 BioREAct is a framework for biomedical entity relation joint extraction based on  six active learning strategies. It realizes the iterative active learning sample selection and the training process of the entity relation joint extraction model.
 ## Model Architecture
 
-![Model](Figure/Model.png) 
+![Model](model.png) 
 
 **Note: Please refer to Q&A and closed issues to find your question before proposed a new issue.**
 
